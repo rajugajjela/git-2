@@ -1,1 +1,1 @@
-LOCAL_SRC_FILES := dummy_v1.0.3.apk
+LOCAL_SRC_FILES := dummy_v1.0.0.apk
